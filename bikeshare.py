@@ -26,7 +26,7 @@ def get_filters():
     while city not in city_lst:
         city =input('Please enter the name of city from the list (Chicago, new york city, washington):')
 
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: get user input for month (all, january, february, ... , june) the month input should be written with initial small letter
     
     month = input('Please enter the month from the list(all,january,february,march,april,may,june):')
     
