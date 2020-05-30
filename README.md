@@ -12,5 +12,6 @@ about bike sharing system
 new_york_city.csv , chicago.csv , washington.csv , bikeshare.py
 
 ### Credits
-I am only inspired by Richard Fynmann and Albert Einstein
+I am only inspired by Richard Fynmann and Albert Einstein. I also need to thank Allen 
+Turing for his contribution to this project
 
