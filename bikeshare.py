@@ -73,7 +73,7 @@ def time_stats(df):
     start_time = time.time()
 
     # TO DO: display the most common month
-    temp = df['month'].value_counts().idxmax()
+    temp = df['month'].value_counts()
     print('The most common month is {}'.format(month_lst[temp]))
     
 
