@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+May 29 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+In this project, by providing the city name, the user could access some useful information
+about bike sharing system
 
 ### Files used
-Include the files used
+new_york_city.csv , chicago.csv , washington.csv , bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I am only inspired by Richard Fynmann and Albert Einstein
 
