@@ -66,14 +66,14 @@ def load_data(city, month, day):
     return df
 
 
-def time_stats(df):
+def time_s(df):
     """Displays statistics on the most frequent times of travel."""
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
     # TO DO: display the most common month
-    temp = df['month'].value_counts().idxmax()
+    temp = df['month'].value_counts()
     print('The most common month is {}'.format(month_lst[temp]))
     
 
